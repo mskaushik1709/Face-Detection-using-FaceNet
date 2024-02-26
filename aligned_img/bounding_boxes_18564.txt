@@ -1,0 +1,11 @@
+./aligned_img\ayud\photo_2023-09-13_22-02-23.png 369 197 457 306
+./aligned_img\ayud\photo_2023-09-13_22-02-24.png 271 459 325 523
+./aligned_img\ayud\photo_2023-09-13_22-02-25 (2).png 262 442 475 679
+./aligned_img\ayud\photo_2023-09-13_22-02-25.png 92 438 319 715
+./aligned_img\ayud\photo_2023-09-13_22-02-26.png 348 438 681 838
+./aligned_img\ayud\photo_2023-09-13_22-02-31 (2).png 250 321 445 556
+./aligned_img\ayud\photo_2023-09-13_22-02-31.png 301 213 404 341
+./aligned_img\ayud\photo_2023-09-13_22-02-32.png 174 508 254 602
+./aligned_img\ayud\photo_2023-09-13_22-02-33.png 289 325 449 522
+./aligned_img\ayud\photo_2023-09-13_22-02-34.png 232 540 283 606
+./aligned_img\ayud\photo_2023-09-13_22-02-35.png 249 399 420 611

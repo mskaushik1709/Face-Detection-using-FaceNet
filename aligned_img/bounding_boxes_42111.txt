@@ -1,0 +1,20 @@
+./aligned_img\vijay\5618fb8b83303b53a802d227708ef1cb (2).png 117 46 143 80
+./aligned_img\vijay\5618fb8b83303b53a802d227708ef1cb.png 231 92 289 169
+./aligned_img\vijay\5a154a966f66e04038cfa1838154430a.png 72 52 172 163
+./aligned_img\vijay\5c8c84876fe567f65fa46fc351f14b57.png 85 57 121 95
+./aligned_img\vijay\6888b9e39d3db9e51e95ff4cab87f581.png 84 63 157 147
+./aligned_img\vijay\87618e7846025019965c54015a085e8f.png 106 271 128 298
+./aligned_img\vijay\8ccf4524a9f9ab2580f229e002209fd1.png 110 17 152 74
+./aligned_img\vijay\8dfde72a43792177afc068d7f9dbf324.png 42 136 84 186
+./aligned_img\vijay\9a5241625933353ff377fbfebc0d855b.png 67 61 141 148
+./aligned_img\vijay\a6a90940b530f23502880dc31031c42a.png 53 80 177 214
+./aligned_img\vijay\a9fbeba05a8d78bb90935f182522e018.png
+./aligned_img\vijay\b974c2d33d93bf00b146c92fcb2477cd.png 50 48 112 123
+./aligned_img\vijay\bfc7bafe14397ae444504938af9237a0.png 88 37 145 112
+./aligned_img\vijay\c08c141669d2f9ef092ce3df49052581.png 95 78 168 174
+./aligned_img\vijay\c20cf98b239c008f4c784f006636e89e.png 111 76 157 133
+./aligned_img\vijay\dc332a1c634676fb31702c93a0c94c04.png 120 52 175 120
+./aligned_img\vijay\df62bacc80e5875028210b431f950934.png 89 99 145 168
+./aligned_img\vijay\e8466f64b1e2f100661b3be5b0922358.png 99 43 163 120
+./aligned_img\vijay\f7cdca2dc9226999e1847d43b6dc7de7.png 41 33 94 102
+./aligned_img\vijay\fb13ee2240fe2b2a020a5dec31f020d8.png 89 182 170 293

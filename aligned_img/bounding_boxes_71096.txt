@@ -1,0 +1,12 @@
+./aligned_img\yogi\6758559.png 331 121 531 361
+./aligned_img\yogi\6758561.png 393 217 751 673
+./aligned_img\yogi\6758564.png 549 150 788 460
+./aligned_img\yogi\6758565.png 219 424 587 877
+./aligned_img\yogi\6758566.png 449 194 640 424
+./aligned_img\yogi\6758568.png 711 295 901 539
+./aligned_img\yogi\6758572.png 289 142 684 572
+./aligned_img\yogi\6758573.png 454 168 666 437
+./aligned_img\yogi\6758575.png 441 231 630 453
+./aligned_img\yogi\6758576.png 440 127 661 414
+./aligned_img\yogi\6758587.png 403 167 544 335
+./aligned_img\yogi\6758613.png 773 204 1040 519

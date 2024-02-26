@@ -1,0 +1,2 @@
+./aligned_img\vijay\a9fbeba05a8d78bb90935f182522e018.png
+./aligned_img\vijay\pxfuel.png 351 709 409 786

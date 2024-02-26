@@ -1,0 +1,6 @@
+./aligned_img\vijay\009f7afc48bdd2527e626d095211e61a.png 44 39 107 123
+./aligned_img\vijay\2b46ef017603206e0c264d9dfd22eccf.png 67 60 106 108
+./aligned_img\vijay\2b54155f5a25eec3b2f26d2e9063f079.png 79 44 156 145
+./aligned_img\vijay\3c4611930c50ab44206dc18ced7a1987.png 46 37 88 90
+./aligned_img\vijay\4201e5bf84e236284d1fea7be2c53bbe.png 93 62 153 137
+./aligned_img\vijay\5283e5148dda7bb2363e3535500488d8.png 87 76 136 139

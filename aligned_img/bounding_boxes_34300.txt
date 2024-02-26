@@ -1,0 +1,7 @@
+./aligned_img\ayud\photo_2023-09-13_22-02-41.png 303 532 721 1061
+./aligned_img\ayud\photo_2023-09-13_22-02-42.png 271 375 616 788
+./aligned_img\ayud\photo_2023-09-13_22-02-43.png 378 354 526 541
+./aligned_img\ayud\photo_2023-09-13_22-02-45.png 217 436 499 779
+./aligned_img\ayud\photo_2023-09-13_22-02-46 (2).png 246 459 594 870
+./aligned_img\ayud\photo_2023-09-13_22-02-46.png 192 483 510 856
+./aligned_img\ayud\photo_2023-09-13_22-02-48.png 269 465 400 623

@@ -1,0 +1,10 @@
+./aligned_img\kaushik\WIN_20230913_22_51_57_Pro.png 545 222 743 482
+./aligned_img\kaushik\WIN_20230913_22_51_58_Pro.png 564 220 760 468
+./aligned_img\kaushik\WIN_20230913_22_52_00_Pro.png 518 210 734 484
+./aligned_img\kaushik\WIN_20230913_22_52_01_Pro.png 536 258 748 527
+./aligned_img\kaushik\WIN_20230913_22_52_03_Pro.png 540 208 728 435
+./aligned_img\kaushik\WIN_20230913_22_52_05_Pro.png 532 225 740 489
+./aligned_img\kaushik\WIN_20230913_22_52_08_Pro.png 540 216 732 464
+./aligned_img\kaushik\WIN_20230913_22_52_09_Pro.png 520 221 729 487
+./aligned_img\kaushik\WIN_20230913_22_52_10_Pro.png 547 224 754 494
+./aligned_img\vijay\a9fbeba05a8d78bb90935f182522e018.png
